@@ -2,7 +2,7 @@
 /* I Patterns Requiring Knowledge of Types, Variables, and Arithmetic Operators
  */
 /* 4. Arithmetic on the circle */
-/* Example Program: return digits and integer information */
+/* Example Program: calculate weekday */
 /* Compile with `gcc circles.c -o circles` */
 #include <stdlib.h>
 #include <stdio.h>
